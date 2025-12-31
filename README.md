@@ -1,30 +1,134 @@
-<h1 align="center">
-    Hi there, I'm Gurps 👋
-</h1>
+# 👋 Hey, I’m Gurpreet (Gurps)
 
-<h3 align="center">Socials/Contact</h3>
+Senior Software Engineer · Builder · Founder-in-progress  
+Based in the UK 🇬🇧
 
-<div align="center">
-<a href="https://gbhopal.com" target="_blank" title="Visit Gurps's Website">
-    <img src="https://img.shields.io/badge/Website-023020?style=flat&logo=ko-fi&logoColor=white" alt="Website">
-</a>
+I’m a **full-stack developer with 11+ years of experience**, specialising in **TypeScript, React, and modern cloud-native apps**. I enjoy building **real products** — not demos — and I’m most at home where **engineering, product, and automation** meet.
 
-<a href="https://www.linkedin.com/in/gurpreet-bhopal-063a6a73/" target="_blank" title="Visit Gurps's Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white" alt="LinkedIn">
-</a>
+Currently working at **CGI** (previously BJSS), while building multiple side projects across **SaaS, AI, event platforms, and mobile apps**.
 
-<a href="https://twitter.com/GBhopal" target="_blank" title="Visit Gurps's Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-</a>
+---
 
-<a href="mailto:gbhopal@icloud.com" title="Email Gurps">
-    <img src="https://img.shields.io/badge/Email-black?style=flat&logo=Minutemailer&logoColor=white" alt="Twitter">
-</a>
-</div>
+## 🧠 What I Do
 
-<br/>
-<br/>
+- 🧑‍💻 **Senior Software Engineer**
+  - React, Next.js (App Router), React Native / Expo
+  - Golang & Python backends
+  - Clean architecture, testing, performance, DX
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhopalg&show_icons=true&count_private=true&theme=dark" alt="Gurps's GitHub Stats"/>
-</div>
+- 🚀 **Product Builder**
+  - SaaS platforms (web + mobile)
+  - Membership systems, ticketing, dashboards
+  - Stripe subscriptions, Supabase auth & RLS
+  - End-to-end ownership — idea → production
+
+- 🤖 **AI & Automation**
+  - Generative AI tools
+  - AI agents (email classification, drafting, workflows)
+  - n8n, OpenAI, automation pipelines
+  - Exploring AI-first product ideas
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js, React Native, Expo Router
+- TypeScript, TailwindCSS, NativeWind
+- Shadcn UI, Framer Motion, Three.js
+
+**Backend**
+- Node.js, Golang, Python
+- REST APIs, background jobs, webhooks
+- Stripe, Supabase (Postgres, RLS, Edge Functions)
+
+**Cloud & DevOps**
+- AWS (S3, CloudFront, IAM)
+- Docker, Terraform (early stages)
+- CI/CD, GitHub Actions
+
+**Data & Storage**
+- PostgreSQL, SQLite (offline-first mobile)
+- S3 + pre-signed URLs
+- Contentful (custom apps & extensions)
+
+---
+
+## 🧩 Things I’m Building / Have Built
+
+- 🎟 **Event & Ticketing Platforms**
+  - Membership systems
+  - Guest lists & QR-based access
+  - Stripe-powered ticketing
+  - Photo galleries backed by S3 + CloudFront
+
+- 📱 **Mobile Apps**
+  - Expo Router apps with offline support
+  - Animated UI components
+  - Local SQLite storage for field usage
+
+- 🧠 **AI Tools**
+  - Email classification & response drafting
+  - Content automation
+  - Exploring AI-powered SaaS ideas
+
+- 🥗 **AI-Generated Wellness Content**
+  - Faceless TikTok content focused on health, nutrition & mindfulness
+
+---
+
+## 🎯 What I Care About
+
+- Shipping **real products**
+- Clean, maintainable code
+- Performance & UX
+- Developer experience
+- Building things people actually use
+- Long-term thinking over hype
+
+---
+
+## 📈 Experience Snapshot
+
+- 💼 **Senior Software Engineer @ CGI**
+- 🧑‍💻 Previously **BJSS**
+- 11+ years professional experience
+- React-first, but backend-capable
+- Comfortable owning features end-to-end
+- Have covered **Tech Lead** responsibilities when needed
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AI integrations
+- AI-first SaaS ideas
+- Scaling side projects into real businesses
+- Blending product, engineering & automation
+- Certifications in **Azure AI Fundamentals**
+
+---
+
+## 💬 A Bit More About Me
+
+- UK-based
+- Punjabi background 🇮🇳
+- Builder mindset
+- Prefer hands-on learning
+- Big believer in quiet progress > loud announcements
+
+---
+
+## 📫 Let’s Connect
+
+If you’re interested in:
+- SaaS
+- AI tools
+- Product engineering
+- Or just building cool things properly
+
+Feel free to reach out or explore my repos 👇
+
+---
+
+⭐️ *“Build useful things. Ship them well. Keep improving.”*
