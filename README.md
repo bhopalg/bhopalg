@@ -119,15 +119,11 @@ Currently working at **CGI** (previously BJSS), while building multiple side pro
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact & Links
 
-If you’re interested in:
-- SaaS
-- AI tools
-- Product engineering
-- Or just building cool things properly
-
-Feel free to reach out or explore my repos 👇
+- 🌐 **Website:** [gbhopal.com](https://gbhopal.com)
+- 💼 **LinkedIn:** [linkedin.com/in/gurpreet-bhopal](https://www.linkedin.com/in/gurpreet-bhopal-063a6a73)
+- 📧 **Email:** [gbhopal@icloud.com](mailto:gbhopal@icloud.com)
 
 ---
 
