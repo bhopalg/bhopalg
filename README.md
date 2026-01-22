@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Gurpreet (Gurps)
 
-Senior Software Engineer · Builder · Founder-in-progress  
+Software Engineer · Builder · Founder-in-progress  
 Based in the UK 🇬🇧
 
 I’m a **full-stack developer with 11+ years of experience**, specialising in **TypeScript, React, and modern cloud-native apps**. I enjoy building **real products** — not demos — and I’m most at home where **engineering, product, and automation** meet.
@@ -11,7 +11,7 @@ Currently working at **CGI** (previously BJSS), while building multiple side pro
 
 ## 🧠 What I Do
 
-- 🧑‍💻 **Senior Software Engineer**
+- 🧑‍💻 **Software Engineer**
   - React, Next.js (App Router), React Native / Expo
   - Golang & Python backends
   - Clean architecture, testing, performance, DX
